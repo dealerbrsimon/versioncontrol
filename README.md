@@ -1,6 +1,9 @@
 # versioncontrol
 interview with Antoine
 
+Bonjour Antoine ! Voici quelques fichiers dont je suis le principal auteur pour un de mes projets en React. J'ai pris soin de laisser plusieurs commentaires, si jamais tu as des questions n'hésites pas à me contacter. J'étais très nerveux en entrevue et je peux t'expliquer avec plus de détails ce qu'est une architecture REST si jamais l'occasion se présente ou encore les autres verbes HTTP. Même chose pour le lifecycle,c'est tout simplement que parfois dans mes différents projets on utilise d'autres termes et métaphores plus parlantes et que bien que je prennes toujours le temps de bien expliquer avec les termes comme ils sont utilisés en industrie, je force les étudiants à créer leurs propres métaphores et que les membres de l'équipe en question emploient des référents certes le plus univoque possible mais surtout que tout le monde comprenne bien. 
+
+Voici un apercu de la présentation originale : 
 
 Link to the presentation for minimal product
 
